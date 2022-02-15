@@ -1,6 +1,6 @@
-#Olá, Liniker aqui 👋 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://linkedin.com/in/linikerpapke)
+# Olá, Liniker aqui 👋 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://linkedin.com/in/linikerpapke)
 
-##Linguagens Mais Utilizadas
+## Linguagens Mais Utilizadas
 
 ![(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 
