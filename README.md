@@ -1,6 +1,6 @@
 # Olá, Liniker aqui 👋 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://linkedin.com/in/linikerpapke)
 
-### Linguagens Mais Utilizadas
+### Linguagens Mais Utilizadas 🛠
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,3 +26,4 @@ Desenvolvedor Fullstack com ênfase no Front-end. Louco por UX design.
 ### Mais Info
 
 - Open to work
+- [Crie um read-me semelhante](https://readme.so/pt/editor)
