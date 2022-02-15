@@ -14,3 +14,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 [![Top Liniker's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linikerpapke&layout=compact)](https://github.com/linikerpapke/github-readme-stats)
+
+# Status
+
+![Liniker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linikerpapke&show_icons=true&theme=radical)
