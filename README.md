@@ -15,6 +15,14 @@
 
 [![Top Liniker's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linikerpapke&layout=compact)](https://github.com/linikerpapke/github-readme-stats)
 
-# Status
+### Status
 
 ![Liniker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linikerpapke&show_icons=true&theme=radical)
+
+### Sobre
+
+Desenvolvedor Fullstack com ênfase no Front-end. Louco por UX design.
+
+### Mais Info
+
+- Open to work
