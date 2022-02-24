@@ -25,5 +25,5 @@ Desenvolvedor Fullstack com ênfase no Front-end. Louco por UX design.
 
 ### Mais Info
 
-- Open to work
+- Open to work;
 - [Crie um readme semelhante](https://readme.so/pt/editor)
