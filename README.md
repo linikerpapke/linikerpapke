@@ -21,8 +21,4 @@
 
 ### Sobre
 
-Desenvolvedor Fullstack com ênfase no Front-end. Louco por UX design.
-
-### Mais Info
-
-- [Crie um readme semelhante](https://readme.so/pt/editor)
+Desenvolvedor Fullstack com ênfase no Front-end.
